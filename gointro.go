@@ -20,7 +20,7 @@ func combine(a, b string) (string, string) {
 }
 
 func main() {
-	// Types:
+	// Diffrent possible Types:
 	//	 bool
 	//	 string
 	//	 int  int8  int16  int32  int64
@@ -30,6 +30,7 @@ func main() {
 	//	 float32 float64
 	//	 complex64 complex128
 
+	//How to declare variables:
 	//var num1 float64 = 5.6
 	//var num2 float64 = 9.5
 	//var num1, num2 float64 = 5.6, 9.5
